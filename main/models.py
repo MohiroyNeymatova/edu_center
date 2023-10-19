@@ -69,3 +69,5 @@ class Payment(models.Model):
         return self.student.full_name
 
 
+
+
