@@ -67,7 +67,3 @@ class Payment(models.Model):
 
     def __str__(self):
         return self.student.full_name
-
-
-#this is a change
-
